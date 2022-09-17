@@ -291,9 +291,9 @@
 
     
 
-    main {
-      overflow-y: scroll;
-    }
+    .hero {
+        margin-top: 100px;
+      }
 
     
     .projects__grid img {
